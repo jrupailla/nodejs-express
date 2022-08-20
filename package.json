@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-express",
+  "version": "1.0.0",
+  "description": "Hello world NodeJs + Express",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "^16.10.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
